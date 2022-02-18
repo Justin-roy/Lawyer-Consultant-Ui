@@ -1,4 +1,12 @@
-# lawyer_consultant
+# Lawyer Consultant Ui
+
+# Sample Images
+
+
+<img width="300" src="https://github.com/Justin-roy/Lawyer-Consultant-Ui/blob/master/lawyerUi%20Screenshots/1.jpg"> .
+<img width="300" src="https://github.com/Justin-roy/Lawyer-Consultant-Ui/blob/master/lawyerUi%20Screenshots/2.jpg"> .
+<img width="300" src="https://github.com/Justin-roy/Lawyer-Consultant-Ui/blob/master/lawyerUi%20Screenshots/3.jpg"> .
+<img width="300" src="https://github.com/Justin-roy/Lawyer-Consultant-Ui/blob/master/lawyerUi%20Screenshots/4.jpg"> 
 
 A new Flutter project.
 
